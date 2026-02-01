@@ -1,7 +1,7 @@
 export  function Footer(){
 return(
     <div className="h-60 bg-purple-200 w-screen flex justify-around border-t-2 mt-5 text-[15px]">
-        <div className="mr-80"><img src='./src/BLOGGER.png' className="w-30" alt="" /></div>
+        <div className="mr-80"><img src="./public/BLOGGER.png"  className="w-30" alt="" /></div>
         <div className="flex flex-col justify-around items-center ml-110">
             <div className="text-gray-600">COMPANY</div>
             <div>Features</div>
