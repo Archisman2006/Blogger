@@ -1,2 +1,0 @@
-# Blogger
-Blog Website
