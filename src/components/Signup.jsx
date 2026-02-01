@@ -26,7 +26,7 @@ const create=async(data)=>{
 }
 return (
     <div className='h-120 mt-5 rounded-[10px] w-100 bg-purple-400 flex flex-col space-y-7 items-center '>
-        <img src="./public/BLOGGER.png"  className='h-30 rounded-full mt-5'/>
+        <img src=".BLOGGER.png"  className='h-30 rounded-full mt-5'/>
         <h2>Sign up to create account</h2>
         <p>Already have an account?&nbsp; 
             <Link to="/login" className='border-2 rounded-[5px] text-[16px] p-0.5'>Sign In</Link>
