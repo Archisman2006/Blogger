@@ -23,7 +23,7 @@ return(
     <header className="h-30">
         <Container>
             <nav className="flex justify-between bg-purple-100">
-                <div className="w-30 h-30 ml-3"><img src="./BLOGGER.png" className="w-30 rounded-[10px]" alt="" /></div>
+                <div className="w-30 h-30 ml-3"><img src="/BLOGGER.png" className="w-30 rounded-[10px]" alt="" /></div>
                 <ul className=" flex w-130 justify-around items-center mr-50 text-[20px] ">
                 {navitems.map((item)=>(
                     item.active?<li key={item.name}><button onClick={()=>navigate(item.slug)} 

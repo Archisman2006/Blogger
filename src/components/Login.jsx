@@ -25,7 +25,7 @@ const login=async (data)=>{
 }
 return (
     <div className='h-120 mt-5 rounded-[10px] w-100 bg-purple-400 flex flex-col space-y-7 items-center '>
-        <img src="./BLOGGER.png"  className='h-30 rounded-full mt-5' />
+        <img src="/BLOGGER.png"  className='h-30 rounded-full mt-5' />
         <h2>Sign in to your account</h2>
         <p>
         Don&apos;t have any account?&nbsp;
